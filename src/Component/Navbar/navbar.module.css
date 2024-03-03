@@ -1,0 +1,7 @@
+.nav{
+    background-color: inherit;
+}
+.active{
+    background-color: inherit;
+    z-index: 999;
+}
